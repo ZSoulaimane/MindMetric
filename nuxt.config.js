@@ -5,7 +5,7 @@ export default {
         title: 'MindMetric',
         titleTemplate: '%s - MindMetric',
         htmlAttrs: {
-            lang: 'Eng'
+            lang: 'ENG'
         },
         meta: [
             { charset: 'utf-8' },
