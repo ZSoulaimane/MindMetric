@@ -2,10 +2,10 @@ export default {
 
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: 'MindMetric',
-        titleTemplate: '%s - MindMetric',
+        title: 'edublink',
+        titleTemplate: '%s - EduBlink',
         htmlAttrs: {
-            lang: 'ENG'
+            lang: 'zxx'
         },
         meta: [
             { charset: 'utf-8' },
@@ -14,15 +14,15 @@ export default {
             { name: 'format-detection', content: 'telephone=no' }
         ],
         link: [
-            {
-                rel: 'icon',
-                type: 'image/x-icon',
-                href: '/favicon.png'
+            { 
+                rel: 'icon', 
+                type: 'image/x-icon', 
+                href: '/favicon.png' 
             }
         ],
         script: [
-            {
-                src: '/js/pace.min.js'
+            { 
+                src: '/js/pace.min.js' 
             }
         ]
     },
@@ -41,13 +41,13 @@ export default {
         '~/plugins/vue-inline-svg.js',
         '~/plugins/observe-visibility.js',
         '~/plugins/vue-masonry-css.js',
-        {
-            src: '~/plugins/bootstrap.bundle.min.js',
+        { 
+            src: '~/plugins/bootstrap.bundle.min.js', 
             mode: 'client'
         },
-        {
-            src: "~/plugins/aos",
-            ssr: false
+        { 
+            src: "~/plugins/aos", 
+            ssr: false 
         }
     ],
 
@@ -72,7 +72,7 @@ export default {
 
     // Build Configuration: https://go.nuxtjs.dev/config-build
     build: {
-        extend(config, ctx) { },
+        extend (config, ctx) {},
         transpile: [/^vue2-google-maps($|\/)/]
     }
 }
