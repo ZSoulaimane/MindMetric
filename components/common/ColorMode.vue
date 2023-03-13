@@ -12,11 +12,11 @@
 </template>
 
 <script>
-    export default {
-        methods: {
-            toggleTheme() {
-                this.$colorMode.preference = this.$colorMode.preference !== 'dark' ? 'dark' : 'light';
-            }
+export default {
+    methods: {
+        toggleTheme() {
+            this.$colorMode.preference = this.$colorMode.preference !== 'dark' ? 'dark' : 'dark';
         }
     }
+}
 </script>
