@@ -38,34 +38,6 @@ export default {
                             url: '/',
                             title: 'EduBlink Education'
                         },
-                        {
-                            url: '/distant-learning',
-                            title: 'Distant Learning'
-                        },
-                        {
-                            url: '/university',
-                            title: 'University'
-                        },
-                        {
-                            url: '/online-academy',
-                            title: 'Online Academy'
-                        },
-                        {
-                            url: '/kitchen-coach',
-                            title: 'Kitchen Coach'
-                        },
-                        {
-                            url: '/yoga-instructor',
-                            title: 'Yoga Instructor'
-                        },
-                        {
-                            url: '/kindergarten',
-                            title: 'Kindergarten'
-                        },
-                        {
-                            url: '/landing-demo',
-                            title: 'Landing Demo'
-                        }
                     ]
                 },
                 {
@@ -103,10 +75,6 @@ export default {
                                 {
                                     url: '/faq',
                                     title: 'Faq\'s'
-                                },
-                                {
-                                    url: '/404',
-                                    title: '404 Error'
                                 },
                                 {
                                     url: '/coming-soon',
