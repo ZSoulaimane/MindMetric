@@ -48,39 +48,6 @@
                 </div>
             </div>
         </div>
-
-        <div class="edu-blog-widget widget-action">
-            <div class="inner">
-                <h4 class="title">Get Online Courses From <span>EduBlink</span></h4>
-                <span class="shape-line"><i class="icon-19"></i></span>
-                <p>Nostrud exer ciation laboris aliqup</p>
-                <n-link to="/course/course-one" class="edu-btn btn-medium">Start Now <i class="icon-4"></i></n-link>
-            </div>
-        </div>
-        
-        <div class="edu-blog-widget widget-categories">
-            <div class="inner">
-                <h4 class="widget-title">Archives</h4>
-                <div class="content">
-                    <ul class="category-list">
-                        <li v-for="(archive, index) in archives.slice(0, 5)" :key="index">
-                            <n-link to="/blog/blog-masonry">{{ archive.title }} <span>({{ archive.number }})</span></n-link>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-        <div class="edu-blog-widget widget-tags">
-            <div class="inner">
-                <h4 class="widget-title">Tags</h4>
-                <div class="content">
-                    <div class="tag-list">
-                        <n-link to="/blog/blog-masonry" v-for="(tag, index) in tags.slice(0, 5)" :key="index">{{ tag }}</n-link>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
 </template>
 
