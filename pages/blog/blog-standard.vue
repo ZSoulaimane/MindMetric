@@ -37,8 +37,6 @@
             </div>
         </section>
 
-        <CTAOne />
-
         <FooterOne />
     </div>
 </template>
