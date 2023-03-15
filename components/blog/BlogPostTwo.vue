@@ -3,7 +3,7 @@
         <div class="inner">
             <div class="thumbnail">
                 <n-link to="/blog/blog-details">
-                    <img :src="'/images/blog/kindergarten/' + blogInfo.imgSrc" :alt="blogInfo.alt">
+                    <img src='/images/blog/kindergarten/blog-01.jpg' :alt="blogInfo.alt">
                 </n-link>
                 <div class="read-more-btn">
                     <n-link to="/blog/blog-details" class="btn-icon-round"><i class="icon-4"></i></n-link>
