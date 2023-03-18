@@ -42,7 +42,7 @@ export default {
     },
     head() {
         return {
-            title: 'Distant Learning'
+            title: 'Home'
         }
     }
 }
