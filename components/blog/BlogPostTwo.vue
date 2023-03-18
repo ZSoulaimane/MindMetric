@@ -2,18 +2,18 @@
     <div class="edu-blog blog-style-3">
         <div class="inner">
             <div class="thumbnail">
-                <n-link to="/blog/blog-details">
+                <n-link to="/blog/spark">
                     <img src='/images/blog/kindergarten/blog-01.jpg' :alt="blogInfo.alt">
                 </n-link>
                 <div class="read-more-btn">
-                    <n-link to="/blog/blog-details" class="btn-icon-round"><i class="icon-4"></i></n-link>
+                    <n-link to="/blog/spark" class="btn-icon-round"><i class="icon-4"></i></n-link>
                 </div>
             </div>
             <div class="content">
                 <div class="category-wrap">
                     <a href="#" class="blog-category">{{ blogInfo.category }}</a>
                 </div>
-                <h5 class="title"><n-link to="/blog/blog-details">{{ blogInfo.title }}</n-link></h5>
+                <h5 class="title"><n-link to="/blog/spark">{{ blogInfo.title }}</n-link></h5>
                 <ul class="blog-meta">
                     <li><i class="icon-27"></i>{{ blogInfo.date }}</li>
                     <li><i class="icon-28"></i>{{ blogInfo.comment }}</li>
@@ -25,7 +25,7 @@
 </template>
 
 <script>
-    export default {
-        props: ['blogInfo']
-    }
+export default {
+    props: ['blogInfo']
+}
 </script>

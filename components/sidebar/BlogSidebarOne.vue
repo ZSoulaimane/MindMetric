@@ -18,13 +18,13 @@
                 <div class="content latest-post-list">
                     <div class="latest-post" v-for="blog in blogItems.slice(0, 3)" :key="blog.id">
                         <div class="thumbnail">
-                            <n-link to="/blog/blog-details">
+                            <n-link to="/blog/spark">
                                 <img :src="'/images/blog/blog-thumb/' + blog.thumbSrc" :alt="blog.alt">
                             </n-link>
                         </div>
                         <div class="post-content">
                             <h6 class="title">
-                                <n-link to="/blog/blog-details">{{ blog.title }}</n-link>
+                                <n-link to="/blog/spark">{{ blog.title }}</n-link>
                             </h6>
                             <ul class="blog-meta">
                                 <li><i class="icon-27"></i>{{ blog.date }}</li>
@@ -52,7 +52,7 @@
 </template>
 
 <script>
-    export default {
-        props: ['blogItems', 'tags', 'categories', 'archives', 'tags']
-    };
+export default {
+    props: ['blogItems', 'tags', 'categories', 'archives', 'tags']
+};
 </script>

@@ -6,7 +6,7 @@
                 <div class="logo">
                     <n-link to="/">
                         <img class="logo-light" src="/images/logo/logo-dark-2.png" alt="Dark Logo"
-                            v-if="$colorMode.value === 'light'">
+                            v-if="$colorMode.value === 'dark'">
                         <img class="logo-dark" src="/images/logo/logo-white.png" alt="Light Logo"
                             v-if="$colorMode.value === 'dark'">
                     </n-link>

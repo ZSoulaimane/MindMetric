@@ -211,8 +211,48 @@ export default {
                             title: 'Blog List'
                         },
                         {
-                            url: '/blog/blog-details',
-                            title: 'Blog Details'
+                            url: '/blog/spark',
+                            title: 'spark'
+                        },
+                        {
+                            url: '/blog/cache-management-distribution',
+                            title: 'cache-management-distribution'
+                        },
+                        {
+                            url: '/blog/Vizulisation-tools',
+                            title: 'Vizulisation-tools'
+                        },
+                        {
+                            url: '/blog/Cloud-Architect',
+                            title: 'Cloud-Architect'
+                        },
+                        {
+                            url: '/blog/Hadoop-Ecosystem',
+                            title: 'Hadoop-Ecosystem'
+                        },
+                        {
+                            url: '/blog/agile-scrum',
+                            title: 'agile-scrum'
+                        },
+                        {
+                            url: '/blog/smart-city-salesforce',
+                            title: 'smart-city-salesforce'
+                        },
+                        {
+                            url: '/blog/AWS-re-invent',
+                            title: 'AWS-re-invent'
+                        },
+                        {
+                            url: '/blog/data-modeling',
+                            title: 'data-modeling'
+                        },
+                        {
+                            url: '/blog/Event-Streaming',
+                            title: 'Event-Streaming'
+                        },
+                        {
+                            url: '/blog/Blockchain-world',
+                            title: 'Blockchain-world'
                         }
                     ]
                 },
