@@ -3,7 +3,7 @@
 
         <HeaderOne />
 
-        <BreadCrumbTwo title='Blog Standard' />
+        <BreadCrumbTwo title='Contents' />
 
         <section class="section-gap-equal">
             <div class="container">

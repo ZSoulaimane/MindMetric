@@ -6,7 +6,7 @@
                     <div class="header-brand">
                         <div class="logo">
                             <n-link to="/">
-                                <img class="logo-light" src="/images/logo/logo-dark.png" alt="Dark Logo"
+                                <img class="logo-light" src="/images/logo/logo-white.png" alt="Dark Logo"
                                     v-if="$colorMode.value === 'dark'">
                                 <img class="logo-dark" src="/images/logo/logo-white.png" alt="Light Logo"
                                     v-if="$colorMode.value === 'dark'">
@@ -24,9 +24,7 @@
             </div>
         </div>
 
-        <SearchPopUp />
 
-        <OffCanvasMobileMenuOne />
     </header>
 </template>
 
@@ -35,9 +33,7 @@ export default {
     components: {
         Category: () => import("@/components/header/Category"),
         Navigation: () => import("@/components/header/Navigation"),
-        SearchPopUp: () => import("@/components/header/SearchPopUp"),
         ColorMode: () => import("@/components/common/ColorMode"),
-        OffCanvasMobileMenuOne: () => import("@/components/header/OffCanvasMobileMenuOne")
     },
     data() {
         return {

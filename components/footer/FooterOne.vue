@@ -27,8 +27,7 @@
                             <h4 class="widget-title">Online Platform</h4>
                             <div class="inner">
                                 <ul class="footer-link link-hover">
-                                    <li><n-link to="/blog/blog-standard">Content</n-link></li>
-                                    <li><n-link to="/instructor/instructor-one">Instructor</n-link></li>
+                                    <li><n-link to="/blog/Contents">Content</n-link></li>
                                     <li><n-link to="/instructor/instructor-profile">Instructor Profile</n-link></li>
                                 </ul>
                             </div>

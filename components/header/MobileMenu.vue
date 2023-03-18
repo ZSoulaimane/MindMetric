@@ -199,8 +199,8 @@ export default {
                     title: 'Blog',
                     submenu: [
                         {
-                            url: '/blog/blog-standard',
-                            title: 'Blog Standard'
+                            url: '/blog/Contents',
+                            title: 'Contents'
                         },
                         {
                             url: '/blog/blog-masonry',
