@@ -28,7 +28,6 @@
                             <div class="inner">
                                 <ul class="footer-link link-hover">
                                     <li><n-link to="/blog/Contents">Content</n-link></li>
-                                    <li><n-link to="/instructor/instructor-profile">Instructor Profile</n-link></li>
                                 </ul>
                             </div>
                         </div>

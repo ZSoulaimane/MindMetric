@@ -1,0 +1,205 @@
+[
+  {
+    "name": "coming-soon",
+    "path": "/coming-soon",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/coming-soon.vue",
+    "chunkName": "pages/coming-soon",
+    "_name": "_797806ec"
+  },
+  {
+    "name": "contact-me",
+    "path": "/contact-me",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/contact-me.vue",
+    "chunkName": "pages/contact-me",
+    "_name": "_46defdd0"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/faq.vue",
+    "chunkName": "pages/faq",
+    "_name": "_eb3cba8a"
+  },
+  {
+    "name": "blog-agile-scrum",
+    "path": "/blog/agile-scrum",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/agile-scrum.vue",
+    "chunkName": "pages/blog/agile-scrum",
+    "_name": "_2a5d4da7"
+  },
+  {
+    "name": "blog-AWS-re-invent",
+    "path": "/blog/AWS-re-invent",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/AWS-re-invent.vue",
+    "chunkName": "pages/blog/AWS-re-invent",
+    "_name": "_36c20102"
+  },
+  {
+    "name": "blog-Blockchain-world",
+    "path": "/blog/Blockchain-world",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/Blockchain-world.vue",
+    "chunkName": "pages/blog/Blockchain-world",
+    "_name": "_2c8e082b"
+  },
+  {
+    "name": "blog-blog-list",
+    "path": "/blog/blog-list",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/blog-list.vue",
+    "chunkName": "pages/blog/blog-list",
+    "_name": "_bab537b2"
+  },
+  {
+    "name": "blog-blog-masonry",
+    "path": "/blog/blog-masonry",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/blog-masonry.vue",
+    "chunkName": "pages/blog/blog-masonry",
+    "_name": "_6ad1b4cc"
+  },
+  {
+    "name": "blog-cache-management-distribution",
+    "path": "/blog/cache-management-distribution",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/cache-management-distribution.vue",
+    "chunkName": "pages/blog/cache-management-distribution",
+    "_name": "_4dea86c1"
+  },
+  {
+    "name": "blog-Cloud-Architect",
+    "path": "/blog/Cloud-Architect",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/Cloud-Architect.vue",
+    "chunkName": "pages/blog/Cloud-Architect",
+    "_name": "_615c53db"
+  },
+  {
+    "name": "blog-Contents",
+    "path": "/blog/Contents",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/Contents.vue",
+    "chunkName": "pages/blog/Contents",
+    "_name": "_1a2e31ec"
+  },
+  {
+    "name": "blog-data-modeling",
+    "path": "/blog/data-modeling",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/data-modeling.vue",
+    "chunkName": "pages/blog/data-modeling",
+    "_name": "_b915eacc"
+  },
+  {
+    "name": "blog-Event-Streaming",
+    "path": "/blog/Event-Streaming",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/Event-Streaming.vue",
+    "chunkName": "pages/blog/Event-Streaming",
+    "_name": "_13fa116d"
+  },
+  {
+    "name": "blog-Hadoop-Ecosystem",
+    "path": "/blog/Hadoop-Ecosystem",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/Hadoop-Ecosystem.vue",
+    "chunkName": "pages/blog/Hadoop-Ecosystem",
+    "_name": "_64e8eb0a"
+  },
+  {
+    "name": "blog-smart-city-salesforce",
+    "path": "/blog/smart-city-salesforce",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/smart-city-salesforce.vue",
+    "chunkName": "pages/blog/smart-city-salesforce",
+    "_name": "_41484f8a"
+  },
+  {
+    "name": "blog-spark",
+    "path": "/blog/spark",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/spark.vue",
+    "chunkName": "pages/blog/spark",
+    "_name": "_70d0afca"
+  },
+  {
+    "name": "blog-Vizulisation-tools",
+    "path": "/blog/Vizulisation-tools",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/blog/Vizulisation-tools.vue",
+    "chunkName": "pages/blog/Vizulisation-tools",
+    "_name": "_41f3f32d"
+  },
+  {
+    "name": "course-course-details",
+    "path": "/course/course-details",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/course/course-details.vue",
+    "chunkName": "pages/course/course-details",
+    "_name": "_6b9c4b2e"
+  },
+  {
+    "name": "course-course-details-2",
+    "path": "/course/course-details-2",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/course/course-details-2.vue",
+    "chunkName": "pages/course/course-details-2",
+    "_name": "_00dc5564"
+  },
+  {
+    "name": "course-course-details-3",
+    "path": "/course/course-details-3",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/course/course-details-3.vue",
+    "chunkName": "pages/course/course-details-3",
+    "_name": "_00c02662"
+  },
+  {
+    "name": "course-course-five",
+    "path": "/course/course-five",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/course/course-five.vue",
+    "chunkName": "pages/course/course-five",
+    "_name": "_21d7fc1b"
+  },
+  {
+    "name": "course-course-four",
+    "path": "/course/course-four",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/course/course-four.vue",
+    "chunkName": "pages/course/course-four",
+    "_name": "_5e3fb88f"
+  },
+  {
+    "name": "course-course-one",
+    "path": "/course/course-one",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/course/course-one.vue",
+    "chunkName": "pages/course/course-one",
+    "_name": "_fcd0f7e6"
+  },
+  {
+    "name": "course-course-three",
+    "path": "/course/course-three",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/course/course-three.vue",
+    "chunkName": "pages/course/course-three",
+    "_name": "_075c50f6"
+  },
+  {
+    "name": "course-course-two",
+    "path": "/course/course-two",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/course/course-two.vue",
+    "chunkName": "pages/course/course-two",
+    "_name": "_cc01961a"
+  },
+  {
+    "name": "event-event-details",
+    "path": "/event/event-details",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/event/event-details.vue",
+    "chunkName": "pages/event/event-details",
+    "_name": "_36468aff"
+  },
+  {
+    "name": "event-event-grid",
+    "path": "/event/event-grid",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/event/event-grid.vue",
+    "chunkName": "pages/event/event-grid",
+    "_name": "_60bda44e"
+  },
+  {
+    "name": "event-event-list",
+    "path": "/event/event-list",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/event/event-list.vue",
+    "chunkName": "pages/event/event-list",
+    "_name": "_0ce0e731"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/soulaimane/Videos/MindMetric/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_29e63337"
+  }
+]
